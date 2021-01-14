@@ -1,0 +1,1 @@
+This is some random text which is fetched by our fetch() function. We can also use XMLHttpRequest.
